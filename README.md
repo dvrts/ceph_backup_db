@@ -1,4 +1,1 @@
-tmp
-===
-
-temporary solutions that'll be pulled&amp; merged into permanent ones
+A couple of scripts to backup MySQL databases using Percona Tools and store them on Ceph storage.
